@@ -1,6 +1,9 @@
 1
 2
+<<<<<<< Updated upstream
 3
 4
 5.
 6
+=======
+>>>>>>> Stashed changes
