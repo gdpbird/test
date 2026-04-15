@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 topic
+=======
+master
+>>>>>>> master
